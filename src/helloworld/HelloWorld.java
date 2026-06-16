@@ -17,7 +17,12 @@ public class HelloWorld {
 if (1==1){
        System.out.println("um é igual a um");
 }
+
+else {
+       System.out.println("um não é igual a um");
     }
 
     
+}
+
 }
